@@ -223,18 +223,7 @@ Task-2-Customer-Segmentation/
 ├── README.md
 ├── requirements.txt
 ├── Customer_Segmentation_Report.pdf
-│
-└── Images
-    ├── Missing_Values.png
-    ├── Recency_Distribution.png
-    ├── Frequency_Distribution.png
-    ├── Monetary_Distribution.png
-    ├── Correlation_Heatmap.png
-    ├── Elbow_Method.png
-    ├── Customers_Per_Cluster.png
-    ├── Cluster_Recency_Monetary.png
-    ├── Cluster_Frequency_Monetary.png
-    └── Cluster_Profile.png
+
 ```
 
 ---
